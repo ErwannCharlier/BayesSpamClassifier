@@ -20,4 +20,4 @@ gcc -o spam main.c -lm
 ## Requirements
 
 - `uthash.h` (included)
-- `spam.csv` training dataset in the same directory
+- `spam.csv` training dataset (included)
